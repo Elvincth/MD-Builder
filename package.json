@@ -1,0 +1,38 @@
+{
+  "name": "md-builder",
+  "version": "1.0.0",
+  "description": "MD Builder",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "package-win": "electron-packager . MD Builder --overwrite --asar=true --platform=win32 --arch=all --icon=./icon.ico --prune=true --out=release-builds --electron-version=1.4.15 --version-string.CompanyName=elvin-chu--version-string.FileDescription=md-builder --version-string.ProductName=md-builder",
+    "create-installer-win": "node npm-run-command/create-installer-win.js"
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^2.0.0"
+  },
+  "dependencies": {
+    "ace-code-editor": "^1.2.3",
+    "disable-scroll": "^0.4.0",
+    "electron-titlebar-windows": "^3.0.0",
+    "filereader": "^0.10.3",
+    "grapesjs": "^0.14.21",
+    "grapesjs-blocks-bootstrap4": "^0.1.3",
+    "juice": "^4.3.1",
+    "node-snackbar": "^0.1.10",
+    "nw-dialog": "^1.0.7",
+    "split.js": "^1.3.5",
+    "underscore.string": "^3.3.4",
+    "uninstall-all-modules": "^1.0.5"
+  }
+}
