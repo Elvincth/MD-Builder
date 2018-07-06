@@ -43,7 +43,7 @@ https://github.com/Elvincth/MD-Builder/releases
 
 <p align="center"><img src="https://i.imgur.com/BGZIv5z.png" alt="MD-Builder" width="800" align="center"/></p>
 
- ACE Code Editor
+## ACE Code Editor
 
 <p align="center"><img src="https://i.imgur.com/H8QyS98.png" alt="MD-Builder" width="800" align="center"/></p>
 
