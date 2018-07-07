@@ -9,6 +9,12 @@
 
 https://github.com/Elvincth/MD-Builder/releases
 
+### TODO List
+
+- [ ] Mulitpage support
+- [ ] Custom file type .mdproj
+
+
 ## Build As An Eletronic App (Desktop App)
 
 ----
@@ -23,10 +29,12 @@ https://github.com/Elvincth/MD-Builder/releases
 
 
 
-
 <p align="center"><img src="https://i.imgur.com/MJFrQlZ.png" alt="MD-Builder" width="800" align="center"/></p>
 
 <p align="center"><img src="https://i.imgur.com/0tDG0bY.png" alt="MD-Builder" width="800" align="center"/></p>
+
+
+
 
 ## Blocks
 
